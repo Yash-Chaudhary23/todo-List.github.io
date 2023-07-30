@@ -107,29 +107,6 @@ ul {
     cursor: pointer;
     margin-left: 8px;
 }
-@media only screen and (max-width: 547px){
-    .box{
-        width:150%;
-        height: 350px;
-        background-color: aliceblue;
-        border-radius: 15px;
-        box-shadow: 0 0 10px;
-        padding: 40px 50px;
-    }
-    .box .content{
-        line-height: 1.5;
-        font-size: 1.3rem;
-    
-    }
-    .header {
-        font-size: .8rem;
-        color: whitesmoke;
-        background-color: #262626;
-        border: solid 2px;
-        border-color: burlywood;
-        border-radius: 7px;
-        width: 150%;
-        margin: 20px auto;
-    }
 
-}
+
+
